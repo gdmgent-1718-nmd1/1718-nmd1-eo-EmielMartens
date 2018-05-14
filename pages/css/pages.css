@@ -1,3 +1,4 @@
+
 body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: 400;
@@ -12,7 +13,78 @@ body {
 }
 
 img {
-    max-width: 100%; /* Afbeeldingen responsive maken */
+    max-width: 100%;
 }
 
-/* Voeg jouw css hieraan toe */
+
+html{
+    background-color: rgb(199, 199, 199);
+    height: 100%;
+}
+
+
+
+h1 {
+    color:#fff;
+    font-family: Avenir, Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-left: 80px;
+    margin-top: 80px;
+    margin-bottom: 60px;
+    font-size: 50px;
+    border-bottom: 10px solid #fff;
+    margin-left: 80px;
+    width: 420px;
+    padding-bottom: 10px;
+}
+
+h2 {
+    color: #6A6A6A;
+    font-family: Avenir, Arial, 'Slabo 27px', serif;
+    padding-top: 20px;
+    border-bottom: 6px solid rgb(210, 171, 86);
+    margin-left: 20px;
+    margin-right: 20px; 
+    padding-bottom: 10px;
+    
+}
+
+p {
+    color: #9D9D9D;
+    font-family: Avenir, Arial, Helvetica, sans-serif;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    margin-right: 20px;
+}
+
+
+.scenario-item {
+    width: 600px;
+    background-color:#fff;
+    display: inline-block;
+    vertical-align: top;
+    margin-right:10px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+
+.concurrentie-item {
+    width: 1210px;
+    background-color: #fff;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+
+.block {
+    margin-left: 80px;
+}
+
+i {
+    color: #6A6A6A;
+}
+
+span {
+    margin: 2em;
+}
