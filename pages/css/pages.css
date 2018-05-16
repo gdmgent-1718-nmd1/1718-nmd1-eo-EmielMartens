@@ -65,6 +65,7 @@ p {
     margin-right:10px;
     margin-bottom: 20px;
     padding-bottom: 10px;
+    border-radius: 20px;
 }
 
 .concurrentie-item {
@@ -74,6 +75,7 @@ p {
     vertical-align: top;
     margin-bottom: 20px;
     padding-bottom: 10px;
+    border-radius: 20px;
 }
 
 .block {
