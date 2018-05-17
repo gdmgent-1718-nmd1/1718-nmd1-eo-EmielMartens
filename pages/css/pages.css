@@ -102,6 +102,7 @@ span {
     margin-top: 20px;
     padding-top: 2px;
     border-radius: 30px;
+    box-shadow: 8px 8px 8px 8px rgb(187, 187, 187);
 }
 
 a {
